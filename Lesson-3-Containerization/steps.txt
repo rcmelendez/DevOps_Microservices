@@ -1,0 +1,8 @@
+L3: Containerization of existing app
+- Docker base images
+- Installing packages w/ Dockerfile
+- Copying application
+- App setup
+- App start
+- Code example [Convert Flask + Pandas Data Engineering app] 
+Summary
