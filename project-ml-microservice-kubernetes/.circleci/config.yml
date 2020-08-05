@@ -12,7 +12,7 @@ docker:
 working_directory: ~/DevOps_Microservices/project-ml-microservice-kubernetes
 
 steps:
-- checkout
+- checkout:
 path: ~/DevOps_Microservices
 
 # Download and cache dependencies
